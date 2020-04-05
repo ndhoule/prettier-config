@@ -1,0 +1,17 @@
+{
+  "name": "@ndhoule/prettier-config",
+  "public": true,
+  "version": "1.0.0",
+  "description": "@ndhoule's personal Prettier configuration.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndhoule/prettier-config.git"
+  },
+  "author": "Nathan Houle <nathan@nathanhoule.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndhoule/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ndhoule/prettier-config#readme"
+}
